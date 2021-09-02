@@ -14,7 +14,7 @@ on:
     types: [started]
 
 env:
-  FIRMWARE_LINK: https://doc-14-88-docs.googleusercontent.com/docs/securesc/b8orieu8k1a22ngkkh5n2isktbc53526/ttq11se07ev4kf88nhjkvu7o35q2svsb/1630612500000/06313024211322419765/15649280114936216136Z/1p0xdfGRrHPw9UULWtm6TvgZxAknpQlaV?e=download&nonce=q7jvcujbeol2s&user=15649280114936216136Z&hash=1o0pm4ncmt3ptvdp0h4rgv90bkq6rpf7
+  FIRMWARE_LINK: https://doc-00-3o-docs.googleusercontent.com/docs/securesc/0h6b1p8ali4aeqfi8m1nslen9q44vph3/tqqs8bsnm036m8rnn3lsmfe7s6cuoif6/1630612725000/06313024211322419765/06313024211322419765/1p0xdfGRrHPw9UULWtm6TvgZxAknpQlaV?e=download&authuser=0&nonce=a1jh7ceg67iqq&user=06313024211322419765&hash=rfgoosk993ijpr17rhmca6f1ko9vqdpn
   FIRMWARE_NAME: RMX1901EX_11_OTA_10200270_all_236N4HwASEdD.ozip
   FIRMWARE_ZIP_NAME: RMX1901EX_11_OTA_10200270_all_236N4HwASEdD
   TZ: Asia/Kolkata
